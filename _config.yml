@@ -4,7 +4,7 @@
 
 # Site
 title: Lucas' Blog
-subtitle: 'Lucas 的个人博客'
+subtitle: '保持学习'
 description: '记载生活与技术成长过程'
 keywords:
 author: Lucas
@@ -90,7 +90,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: crisp
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
